@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "CourtSide NCAA",
+    "slug": "courtside-ncaa",
+    "scheme": "courtside-ncaa",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
